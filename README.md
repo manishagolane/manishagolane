@@ -4,7 +4,7 @@
 
 - 🌱 I love to code 
 
-- 📫 How to reach me **atul852798@gmail.com**
+- 📫 How to reach me **manishagolane@gmail.com**
 
 
 <p>	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishagolane&layout=compact" alt="attull" /></p>
