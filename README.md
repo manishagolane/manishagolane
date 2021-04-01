@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manisha Golane</h1> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=attull" alt="attull" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishagolane" alt="manishagolane" /> </p>
 
 - 🌱 I love to code 
 
