@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Manisha Golane</h1> 
 
-<!--
-**manishagolane/manishagolane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=attull" alt="attull" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I love to code 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **atul852798@gmail.com**
+
+
+<p>	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishagolane&layout=compact" alt="attull" /></p>
+
+<p align="center">
+Linkedin
+<a href="https://linkedin.com/in//manisha-golane-408896117" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in//manisha-golane-408896117" height="30" width="30" /></a>
+</p>
